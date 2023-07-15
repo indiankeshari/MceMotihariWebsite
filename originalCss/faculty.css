@@ -1,0 +1,42 @@
+#container{
+    display: grid;
+    grid-template-columns: 1.1fr 8fr 1.1fr;
+    width: 100%;
+    height: 320vh;
+  }
+  
+  .mid{
+    display: grid;
+    grid-template-rows: 0.6fr 0.45fr 7fr;
+  }
+  
+  .fac{
+    margin-left: 10vw;
+    overflow: hidden;
+  }
+  
+  .pic{
+    width: 58vw;
+    height: 40vh;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+  }
+  
+  img{
+    width: 100%;
+    height: 100%;
+  }
+  
+  .picR{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 1.5vw;
+    margin-left: 20px;
+  }
+  
+  b{
+    font-size:x-large;
+  }
+  

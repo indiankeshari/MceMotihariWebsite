@@ -1,0 +1,1 @@
+#container,[class~=mid]{display:grid;}#container{grid-template-columns:1.1fr 8fr 1.1fr;}#container{width:100%;}b{font-size:x-large;}pre{font-size:large;}#container{height:220vh;}pre{font-family:Verdana,Geneva,Tahoma,sans-serif;}[class~=mid]{grid-template-rows:.95fr .8fr 7fr;}[class~=ovr]{overflow:hidden;}

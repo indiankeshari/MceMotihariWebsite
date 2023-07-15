@@ -1,0 +1,1 @@
+[class~=mid],#container{display:grid;}#container{grid-template-columns:1.1fr 8fr 1.1fr;}[class~=mid]{grid-template-rows:.85fr .7fr 2fr;}[class~=deco]{display:flex;}[class~=deco]{justify-content:center;}#container{width:100%;}[class~=deco]{align-items:center;}[class~=deco]{margin-bottom:10vh;}#container{height:100vh;}
